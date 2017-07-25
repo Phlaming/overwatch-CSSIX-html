@@ -1,0 +1,14 @@
+#red-heading {}
+h1{
+  color: rgb(255, 0, 0);
+  font-family: fantasy;
+  font-size: 40px;
+}
+
+.fantasy-paragraph {
+  font-family: fantasy;
+
+}
+/*h1{
+
+}
